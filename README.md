@@ -1,2 +1,2 @@
 # Student-Database-Management-System
-A very useful project in collecting a student's academic data.
+A very useful c++ project in collecting a student's academic data.
